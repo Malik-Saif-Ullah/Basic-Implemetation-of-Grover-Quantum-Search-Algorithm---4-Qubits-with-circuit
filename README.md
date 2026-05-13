@@ -14,7 +14,6 @@
 *A complete, reproducible implementation of Grover's unstructured quantum search algorithm on a 4-qubit system with full Qiskit simulation, IBM Quantum Composer QASM export, and theoretical analysis.*
 
 Author: Malik Saif Ullah · Quantum Computing Lab, SINES, NUST, Islamabad, Pakistan  
-**---
 
 </div>
 
